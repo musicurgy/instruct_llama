@@ -5,7 +5,23 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
 
 
-This repo aims to producer higher quality instructions using GPT-4? for use in language model finetune/lora training
+This repo aims to producer higher quality instructions than the original Stanford Alpaca instruction set using GPT-4? for use in language model finetune/lora training
+
+To do:
+ 
+ 1) edit utils.py include org/keys
+ 
+ 2) Test generate_instruction.py for gpt-4 integration: 
+ `python -m generate_instruction.py generate_instruction_following_data --output_dir "C:\\ai" --num_instructions_to_generate 10 --model_name="gpt-4"`
+ 
+ 3) evaluate outputs
+ 
+ 4) integrate lora training
+ 
+ 5) test 7B lora training and evaluate
+ 
+ 6) test 13B lora training and evaluate
+ 
 
 ## The following is the readme from the original stanford_alpaca repo:
 
