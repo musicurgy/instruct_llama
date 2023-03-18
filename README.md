@@ -5,7 +5,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
 
 
-This repo aims to producer higher quality instructions using GPT-4 for use in lanuage model finetune/lora training
+This repo aims to producer higher quality instructions using GPT-4? for use in language model finetune/lora training
 
 ## The following is the readme from the original stanford_alpaca repo:
 
