@@ -5,8 +5,9 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
 
 
-This github aims to producer higher quality instructions for use in lanuage model finetune/lora training
-**The following is the readme from the original stanford_alpaca github:**
+This repo aims to producer higher quality instructions using GPT-4 for use in lanuage model finetune/lora training
+
+## The following is the readme from the original stanford_alpaca repo:
 
 This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model. The repo contains:
 - The [52K data](#data-release) used for fine-tuning the model
