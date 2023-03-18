@@ -9,7 +9,7 @@ This repo aims to producer higher quality instructions than the original Stanfor
 
 ## TODO
 
-- [ ] edit utils.py
+- [ ] edit utils.py (openai_org)
  
 - [ ]  Test generate_instruction.py for gpt-4 integration: 
  `python -m generate_instruction.py generate_instruction_following_data --output_dir "C:\\ai" --num_instructions_to_generate 10 --model_name="gpt-4"`
